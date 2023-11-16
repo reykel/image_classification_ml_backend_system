@@ -13,4 +13,3 @@ pre-commit
 python-dotenv
 pydantic-settings
 sqlalchemy
-joblib
