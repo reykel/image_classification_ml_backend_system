@@ -1,0 +1,16 @@
+tensorflow-cpu
+fastapi
+Pillow
+starlette
+gunicorn
+uvicorn
+numpy
+python-multipart
+pytest
+requests
+httpx
+pre-commit
+python-dotenv
+pydantic-settings
+sqlalchemy
+joblib
