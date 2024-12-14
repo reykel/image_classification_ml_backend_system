@@ -1,4 +1,4 @@
-## SaririMatch Machine Learning Backend System
+## Image Classification Machine Learning Backend System
 # Instalación
 1 - Clonar el repositorio
 
